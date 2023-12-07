@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pix2tex[gui]
+kaleido
+python-multipart
+streamlit
+Pillow
